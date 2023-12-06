@@ -1,0 +1,3 @@
+npm install mysql --save
+adonis migration:run
+adonis make"controller PageController
